@@ -1,7 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Owen</h1>
 <h3 align="center">I'm a full-stack software developer with experience in AI and ML development.</h3>
 
-<h3 align="center">👨‍💻 Check out a few of my projects at <a href="https://owenjrjones.netlify.app" target="_blank">owenjrjones.netlify.app</a></h4>
+<h3 align="center">👨‍💻 Check out a few of my projects:</h3>
+<h3 align="center">
+  Full-Stack Projects - <a href="https://owenjrjones.com" target="_blank">owenjrjones.com</a>
+  <br/>
+  AI & ML Projects - <a href="https://ml.owenjrjones.com" target="_blank">ml.owenjrjones.com</a>
+</h3>
 
 <br/>
 
