@@ -3,9 +3,7 @@
 
 <h3 align="center">👨‍💻 Check out a few of my projects:</h3>
 <h3 align="center">
-  Full-Stack Projects - <a href="https://owenjrjones.com" target="_blank">owenjrjones.com</a>
-  <br/>
-  AI & ML Projects - <a href="https://ml.owenjrjones.com" target="_blank">ml.owenjrjones.com</a>
+  <a href="https://owenjrjones.com" target="_blank">owenjrjones.com</a>
 </h3>
 
 <br/>
